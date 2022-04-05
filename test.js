@@ -1,7 +1,5 @@
 class a{
-    /**
-     * 
-     */
+    
     public met(){
 
     }
