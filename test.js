@@ -5,8 +5,6 @@ class a{
     public met(){
 
     }
-/**
- * 
- */
+
     private metod {}
 }
