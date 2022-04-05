@@ -1,3 +1,6 @@
-public meto(){
+class a{
     
+    public met(){
+
+    }
 }
