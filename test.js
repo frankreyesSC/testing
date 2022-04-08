@@ -1,3 +1,10 @@
-public meto(){
-    
+class a{
+    /**
+     * d
+     */
+    public met(){
+
+    }
+
+    private metod {}
 }
